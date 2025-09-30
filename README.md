@@ -1,3 +1,4 @@
+
 # SOCIAL OPLESK
 ### 🏴‍☠️ HACKS - BACKEND - 1
 
@@ -162,3 +163,6 @@ output => {
 ```
 <br/>
 <br/>
+
+![hack_flask_img](https://github.com/user-attachments/assets/f8f4c52f-64d3-4304-8bcc-95169de62c0b)
+>>>>>>> 3542bbe5384ddeafdbb14c207a2bc2830bb6a51d
